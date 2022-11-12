@@ -18,10 +18,10 @@
     "Benday.Presidents.WebUi": {
       "commandName": "Project",
       "launchBrowser": true,
+      "applicationUrl": "http://localhost:1548/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "http://localhost:1548/"
+      }
     }
   }
 }

@@ -18,10 +18,10 @@
     "Benday.Presidents.MvcIntegrationTests": {
       "commandName": "Project",
       "launchBrowser": true,
+      "applicationUrl": "http://localhost:1549/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "http://localhost:1549/"
+      }
     }
   }
 }
